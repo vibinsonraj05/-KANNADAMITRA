@@ -95,4 +95,4 @@ To bridge language barriers and encourage regional language learning by providin
 
 **Vibinson Raj G.**
 
-**ಕನ್ನಡ ಕಲಿಯಿರಿ, ಕರ್ನಾಟಕದೊಂದಿಗೆ ಬೆರೆಯಿರಿ!**
+
