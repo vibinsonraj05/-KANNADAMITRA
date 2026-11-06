@@ -1,0 +1,16 @@
+[
+  {
+    "id": "demo-user-kannadamitra",
+    "name": "Demo Learner",
+    "email": "demo@kannadamitra.com",
+    "passwordHash": "scrypt$yTKZOvfbz9hw-j0GSR3ptQ$DnRkrvt9H6stItO3YG214c6SISdMcqJJ3qLA7IGpSx7EcfjM2o3GtzK6oaSoIqIp59DK3X1nymRkswFEMDzFiw",
+    "createdAt": "2026-11-06T12:00:00.000Z"
+  },
+  {
+    "id": "6635e147-9c3b-46b9-bd1c-6a3356287a9c",
+    "name": "abcd",
+    "email": "abcd@gmail.com",
+    "passwordHash": "scrypt$TvyjP9G8UhoWLGai5MUkiQ$DhSgccbHX0SqqKXXGM3ZdimidsUJLwThOPrGiw0249JUEEsX16dg66GRzhK4nluCB_MhwcoHspBG24-drb5CmA",
+    "createdAt": "2026-11-06T18:17:17.966Z"
+  }
+]
