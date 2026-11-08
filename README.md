@@ -91,8 +91,14 @@ To bridge language barriers and encourage regional language learning by providin
 - Personalized learning paths.
 - Advanced learning analytics.
 
+
 ## 👨‍💻 Developer
 
 **Vibinson Raj G.**
+
+- GitHub: https://github.com/vibinsonraj05
+- LinkedIn: https://www.linkedin.com/in/vibinson-raj-g/
+
+---
 
 
